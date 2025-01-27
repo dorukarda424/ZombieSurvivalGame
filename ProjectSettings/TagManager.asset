@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Bullet
+  - enemy
+  - gun
+  - walls
+  - grenade
+  - AudioManager
+  - TerrainCollider
+  - experience
+  - LevelUpPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - enemy
+  - gun
+  - bullet
+  - player
+  - walls
+  - grenade
+  - experience
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1999345451
+    locked: 0
+  - name: enemy
+    uniqueID: 1846383549
+    locked: 0
+  - name: bullet
+    uniqueID: 1416159191
+    locked: 0
+  - name: gun
+    uniqueID: 1903486337
+    locked: 0
+  - name: player
+    uniqueID: 2059858439
+    locked: 0
+  - name: walls
+    uniqueID: 3685615281
+    locked: 0
+  - name: grenade
+    uniqueID: 4259521229
+    locked: 0
+  - name: experience
+    uniqueID: 2243066247
+    locked: 0
+  m_RenderingLayers:
+  - Default
